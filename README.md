@@ -1,5 +1,5 @@
 # Development Guide
-This guide has been written for would-be software engineers in Wish Work. These conventions has been developed for the matter of achieve better results. 
+This guide has been written for would-be software engineers in Wish Work. These conventions has been developed for the matter of achieving better results. 
 
 ## Basecamp 
 use basecamp as a main tool for having communication. Everyone should has a <b>pull</b> strategy, not <b>push</b> one. This means tasks for a person would be defined himself. we work with the best software engineers, so instead of focusing on the micro management, we describe the main problem and let each individual decide for himself. 
