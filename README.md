@@ -6,9 +6,8 @@ use basecamp as a main tool for having communication. Everyone should has a <b>p
 
 ## Must be implemented libraries
 All installed packages and libraries should have some common attributes which has been described below: 
-1.
-2.
-3.
+- a
+- b
 
 ## Checklist for Completion 
 There are a common to-do list for detecting if a project has been finished or not. The checklist consists as below:
